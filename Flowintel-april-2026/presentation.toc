@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{1. Manage Structured Investigations}{4}{0}{1}
+\beamer@sectionintoc {2}{2. Handle Sensitive \& Privileged Cases}{12}{0}{2}
+\beamer@sectionintoc {3}{3. Document and Preserve Evidence}{17}{0}{3}
+\beamer@sectionintoc {4}{4. Maintain Full Audit \& Accountability}{20}{0}{4}
+\beamer@sectionintoc {5}{5. Multi-Agency \& Organizational Control}{23}{0}{5}
+\beamer@sectionintoc {6}{6. Integrate Threat Intelligence (MISP)}{26}{0}{6}
+\beamer@sectionintoc {7}{7. Operational Coordination}{30}{0}{7}
+\beamer@sectionintoc {8}{8. Dashboard}{33}{0}{8}

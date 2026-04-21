@@ -1,0 +1,22 @@
+\frametitle{Improving threat intelligence}
+	\begin{itemize}
+		\item \textbf{Bundles:} Allow to combine similar vulnerabilities.
+		\item \textbf{Comments:} Provide additional context (PoC, remediations, etc.).
+		\item \textbf{Tags:} Attach tags to comments from the MISP vuln taxonomy\footnote{\scriptsize{\url{https://www.misp-project.org/taxonomies.html\#\_vulnerability\_3}}}.
+		      \begin{minted}[fontsize=\scriptsize, bgcolor=bg]{ini}
+    vulnerability:information=remediation
+    \end{minted}
+		      %    \item \textbf{Sightings:} Allowing users to report whether they have witnessed an event, including the date, source of the sighting, and the object.
+		\item \textbf{Sightings:} Provide observations on vulnerabilities.
+	\end{itemize}
+
+	\begin{minted}[fontsize=\fontsize{6.9}{8}, bgcolor=bg, tabsize=2, highlightlines={5-6}]{json}
+    {
+      "uuid": "99c0bf75-48c6-41ac-a26f-572752dffd27",
+      "vulnerability_lookup_origin": "1a89b78e-f703-45f3-bb86-59eb712668bd",
+      "author": "8dfa6142-8c6d-4072-953e-71c85404aefb",
+      "vulnerability": "CVE-2023-39328",
+      "type": "exploited",
+      "creation_timestamp": "2024-10-22T16:27:23.729320Z"
+    }
+  \end{minted}
