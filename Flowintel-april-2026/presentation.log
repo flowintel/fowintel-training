@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.10.5)  22 APR 2026 10:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.10.5)  22 APR 2026 15:54
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1471,156 +1471,168 @@ Overfull \vbox (9.06433pt too high) detected at line 122
 File: img/template_view.png Graphic file (type png)
 <use img/template_view.png>
 Package pdftex.def Info: img/template_view.png  used on input line 129.
-(pdftex.def)             Requested size: 358.50229pt x 204.33238pt.
+(pdftex.def)             Requested size: 378.42044pt x 215.68083pt.
 
-Overfull \vbox (18.90746pt too high) detected at line 129
+Overfull \vbox (30.2559pt too high) detected at line 129
  []
 
 [11
 
- <./img/template_view.png>] [12
+ <./img/template_view.png>]
+<img/template_repo_view.png, id=141, 1850.915pt x 1050.92625pt>
+File: img/template_repo_view.png Graphic file (type png)
+<use img/template_repo_view.png>
+Package pdftex.def Info: img/template_repo_view.png  used on input line 136.
+(pdftex.def)             Requested size: 378.42044pt x 214.84795pt.
 
-] [13
-
-]
-<img/roles.png, id=155, 1177.39874pt x 792.9625pt>
-File: img/roles.png Graphic file (type png)
-<use img/roles.png>
-Package pdftex.def Info: img/roles.png  used on input line 153.
-(pdftex.def)             Requested size: 318.67209pt x 214.62302pt.
-
-Overfull \vbox (29.19809pt too high) detected at line 153
+Overfull \vbox (29.42302pt too high) detected at line 136
  []
 
-[14
+[12
 
- <./img/roles.png>]
-<img/privilege_case_view.png, id=162, 1392.70313pt x 782.925pt>
-File: img/privilege_case_view.png Graphic file (type png)
-<use img/privilege_case_view.png>
-Package pdftex.def Info: img/privilege_case_view.png  used on input line 161.
-(pdftex.def)             Requested size: 398.3386pt x 223.92441pt.
+ <./img/template_repo_view.png>] [13
 
-Overfull \vbox (57.29941pt too high) detected at line 161
+] [14
+
+]
+<img/roles.png, id=162, 1177.39874pt x 792.9625pt>
+File: img/roles.png Graphic file (type png)
+<use img/roles.png>
+Package pdftex.def Info: img/roles.png  used on input line 160.
+(pdftex.def)             Requested size: 318.67209pt x 214.62302pt.
+
+Overfull \vbox (29.19809pt too high) detected at line 160
  []
 
 [15
 
+ <./img/roles.png>]
+<img/privilege_case_view.png, id=169, 1392.70313pt x 782.925pt>
+File: img/privilege_case_view.png Graphic file (type png)
+<use img/privilege_case_view.png>
+Package pdftex.def Info: img/privilege_case_view.png  used on input line 168.
+(pdftex.def)             Requested size: 398.3386pt x 223.92441pt.
+
+Overfull \vbox (57.29941pt too high) detected at line 168
+ []
+
+[16
+
  <./img/privilege_case_view.png>]
-<img/privilege_task_view.png, id=169, 1199.98312pt x 426.84468pt>
+<img/privilege_task_view.png, id=176, 1199.98312pt x 426.84468pt>
 File: img/privilege_task_view.png Graphic file (type png)
 <use img/privilege_task_view.png>
-Package pdftex.def Info: img/privilege_task_view.png  used on input line 169.
+Package pdftex.def Info: img/privilege_task_view.png  used on input line 176.
 (pdftex.def)             Requested size: 398.3386pt x 141.69286pt.
- [16
+ [17
 
  <./img/privilege_task_view.png>]
-[17
+[18
 
-] [18
+] [19
 
 ]
-<img/file_view.png, id=189, 1236.11812pt x 508.90125pt>
+<img/file_view.png, id=197, 1236.11812pt x 508.90125pt>
 File: img/file_view.png Graphic file (type png)
 <use img/file_view.png>
-Package pdftex.def Info: img/file_view.png  used on input line 188.
+Package pdftex.def Info: img/file_view.png  used on input line 195.
 (pdftex.def)             Requested size: 398.3386pt x 163.99321pt.
- [19
+ [20
 
- <./img/file_view.png>] [20
+ <./img/file_view.png>] [21
 
-] [21
+] [22
 
 ]
-<img/audit_view.png, id=209, 1387.43344pt x 764.8575pt>
+<img/audit_view.png, id=216, 1387.43344pt x 764.8575pt>
 File: img/audit_view.png Graphic file (type png)
 <use img/audit_view.png>
-Package pdftex.def Info: img/audit_view.png  used on input line 207.
+Package pdftex.def Info: img/audit_view.png  used on input line 214.
 (pdftex.def)             Requested size: 358.50229pt x 197.63283pt.
 
-Overfull \vbox (12.2079pt too high) detected at line 207
+Overfull \vbox (12.2079pt too high) detected at line 214
  []
 
-[22
+[23
 
- <./img/audit_view.png>] [23
+ <./img/audit_view.png>] [24
 
-] [24
+] [25
 
 ]
-<img/orgs_in_case.png, id=228, 1229.34282pt x 494.59781pt>
+<img/orgs_in_case.png, id=236, 1229.34282pt x 494.59781pt>
 File: img/orgs_in_case.png Graphic file (type png)
 <use img/orgs_in_case.png>
-Package pdftex.def Info: img/orgs_in_case.png  used on input line 225.
+Package pdftex.def Info: img/orgs_in_case.png  used on input line 232.
 (pdftex.def)             Requested size: 398.3386pt x 160.25937pt.
- [25
+ [26
 
- <./img/orgs_in_case.png>] [26
-
-]
-[27
+ <./img/orgs_in_case.png>] [27
 
 ]
-<img/misp_objects_view.png, id=248, 1227.83719pt x 590.95781pt>
-File: img/misp_objects_view.png Graphic file (type png)
-<use img/misp_objects_view.png>
-Package pdftex.def Info: img/misp_objects_view.png  used on input line 246.
-(pdftex.def)             Requested size: 398.3386pt x 191.71635pt.
-
-Overfull \vbox (6.29143pt too high) detected at line 246
- []
-
 [28
 
- <./img/misp_objects_view.png>] [29
+]
+<img/misp_objects_view.png, id=255, 1227.83719pt x 590.95781pt>
+File: img/misp_objects_view.png Graphic file (type png)
+<use img/misp_objects_view.png>
+Package pdftex.def Info: img/misp_objects_view.png  used on input line 253.
+(pdftex.def)             Requested size: 398.3386pt x 191.71635pt.
 
-] [30
+Overfull \vbox (6.29143pt too high) detected at line 253
+ []
+
+[29
+
+ <./img/misp_objects_view.png>] [30
 
 ] [31
 
+] [32
+
 ]
-<img/calendar.png, id=273, 1388.93906pt x 787.44188pt>
+<img/calendar.png, id=280, 1388.93906pt x 787.44188pt>
 File: img/calendar.png Graphic file (type png)
 <use img/calendar.png>
-Package pdftex.def Info: img/calendar.png  used on input line 271.
+Package pdftex.def Info: img/calendar.png  used on input line 278.
 (pdftex.def)             Requested size: 358.50229pt x 203.25217pt.
 
-Overfull \vbox (17.82724pt too high) detected at line 271
+Overfull \vbox (17.82724pt too high) detected at line 278
  []
 
-[32
+[33
 
- <./img/calendar.png>] [33
+ <./img/calendar.png>] [34
 
 ]
-<img/admin_stats.png, id=286, 1391.1975pt x 788.9475pt>
+<img/admin_stats.png, id=293, 1391.1975pt x 788.9475pt>
 File: img/admin_stats.png Graphic file (type png)
 <use img/admin_stats.png>
-Package pdftex.def Info: img/admin_stats.png  used on input line 281.
+Package pdftex.def Info: img/admin_stats.png  used on input line 288.
 (pdftex.def)             Requested size: 358.50229pt x 203.30371pt.
 
-Overfull \vbox (17.87878pt too high) detected at line 281
- []
-
-[34
-
- <./img/admin_stats.png>]
-<img/tags_stats.png, id=293, 1387.43344pt x 785.93625pt>
-File: img/tags_stats.png Graphic file (type png)
-<use img/tags_stats.png>
-Package pdftex.def Info: img/tags_stats.png  used on input line 288.
-(pdftex.def)             Requested size: 358.50229pt x 203.07939pt.
-
-Overfull \vbox (17.65446pt too high) detected at line 288
+Overfull \vbox (17.87878pt too high) detected at line 288
  []
 
 [35
 
- <./img/tags_stats.png>] [36
+ <./img/admin_stats.png>]
+<img/tags_stats.png, id=300, 1387.43344pt x 785.93625pt>
+File: img/tags_stats.png Graphic file (type png)
+<use img/tags_stats.png>
+Package pdftex.def Info: img/tags_stats.png  used on input line 295.
+(pdftex.def)             Requested size: 358.50229pt x 203.07939pt.
 
-] [37
+Overfull \vbox (17.65446pt too high) detected at line 295
+ []
+
+[36
+
+ <./img/tags_stats.png>] [37
 
 ] [38
+
+] [39
 
 ]
 \tf@nav=\write8
@@ -1641,10 +1653,10 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: 39F97A00DD2D6CA6F905ED851CD358C7;1758.
  ) 
 Here is how much of TeX's memory you used:
- 40975 strings out of 476182
- 901716 string characters out of 5795595
+ 40986 strings out of 476182
+ 901983 string characters out of 5795595
  1931975 words of memory out of 5000000
- 62202 multiletter control sequences out of 15000+600000
+ 62211 multiletter control sequences out of 15000+600000
  570202 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  128i,13n,126p,2003b,759s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1659,10 +1671,10 @@ exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/share/texlive
 -dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texmf/fonts/type1/pu
 blic/cm-super/sfss0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss10
 00.pfb>
-Output written on presentation.pdf (38 pages, 2031023 bytes).
+Output written on presentation.pdf (39 pages, 2218873 bytes).
 PDF statistics:
- 391 PDF objects out of 1000 (max. 8388607)
- 281 compressed objects within 3 object streams
- 85 named destinations out of 1000 (max. 500000)
- 202 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 398 PDF objects out of 1000 (max. 8388607)
+ 285 compressed objects within 3 object streams
+ 87 named destinations out of 1000 (max. 500000)
+ 207 words of extra memory for PDF output out of 10000 (max. 10000000)
 
