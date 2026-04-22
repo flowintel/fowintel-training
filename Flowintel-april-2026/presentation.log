@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.10.5)  21 APR 2026 15:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.10.5)  22 APR 2026 10:17
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1431,38 +1431,42 @@ Overfull \vbox (11.69292pt too high) detected at line 100
 [7
 
  <./img/note_view.png>]
-<img/task_view.png, id=110, 1218.05063pt x 594.72188pt>
-File: img/task_view.png Graphic file (type png)
-<use img/task_view.png>
-Package pdftex.def Info: img/task_view.png  used on input line 107.
-(pdftex.def)             Requested size: 358.50229pt x 175.04214pt.
- [8
-
- <./img/task_view.png>]
-<img/timeline_view.png, id=117, 1232.35406pt x 737.00343pt>
+<img/timeline_view.png, id=110, 1232.35406pt x 737.00343pt>
 File: img/timeline_view.png Graphic file (type png)
 <use img/timeline_view.png>
-Package pdftex.def Info: img/timeline_view.png  used on input line 114.
+Package pdftex.def Info: img/timeline_view.png  used on input line 107.
 (pdftex.def)             Requested size: 358.50229pt x 214.40027pt.
 
-Overfull \vbox (28.97534pt too high) detected at line 114
+Overfull \vbox (28.97534pt too high) detected at line 107
+ []
+
+[8
+
+ <./img/timeline_view.png>]
+<img/graph_view.png, id=117, 1231.60126pt x 603.75563pt>
+File: img/graph_view.png Graphic file (type png)
+<use img/graph_view.png>
+Package pdftex.def Info: img/graph_view.png  used on input line 115.
+(pdftex.def)             Requested size: 358.50229pt x 175.73874pt.
+
+Overfull \vbox (11.33597pt too high) detected at line 115
  []
 
 [9
 
- <./img/timeline_view.png>]
-<img/graph_view.png, id=124, 1231.60126pt x 603.75563pt>
-File: img/graph_view.png Graphic file (type png)
-<use img/graph_view.png>
-Package pdftex.def Info: img/graph_view.png  used on input line 122.
-(pdftex.def)             Requested size: 358.50229pt x 175.73874pt.
+ <./img/graph_view.png>]
+<img/task_view.png, id=127, 1218.05063pt x 594.72188pt>
+File: img/task_view.png Graphic file (type png)
+<use img/task_view.png>
+Package pdftex.def Info: img/task_view.png  used on input line 122.
+(pdftex.def)             Requested size: 398.3386pt x 194.48926pt.
 
-Overfull \vbox (11.33597pt too high) detected at line 122
+Overfull \vbox (9.06433pt too high) detected at line 122
  []
 
 [10
 
- <./img/graph_view.png>]
+ <./img/task_view.png>]
 <img/template_view.png, id=134, 1388.18625pt x 791.20593pt>
 File: img/template_view.png Graphic file (type png)
 <use img/template_view.png>
@@ -1483,9 +1487,9 @@ Overfull \vbox (18.90746pt too high) detected at line 129
 File: img/roles.png Graphic file (type png)
 <use img/roles.png>
 Package pdftex.def Info: img/roles.png  used on input line 153.
-(pdftex.def)             Requested size: 278.83578pt x 187.78606pt.
+(pdftex.def)             Requested size: 318.67209pt x 214.62302pt.
 
-Overfull \vbox (2.36113pt too high) detected at line 153
+Overfull \vbox (29.19809pt too high) detected at line 153
  []
 
 [14
@@ -1655,7 +1659,7 @@ exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/share/texlive
 -dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texmf/fonts/type1/pu
 blic/cm-super/sfss0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss10
 00.pfb>
-Output written on presentation.pdf (38 pages, 2030951 bytes).
+Output written on presentation.pdf (38 pages, 2031023 bytes).
 PDF statistics:
  391 PDF objects out of 1000 (max. 8388607)
  281 compressed objects within 3 object streams
